@@ -11,7 +11,7 @@ package inlämningsuppgift1;
 /**
  * 
  * @author Solveig Magnusson
- *  
+ *  ddd
   */
     
     public class Inlämningsuppgift1 {
